@@ -1,0 +1,126 @@
+body {
+  background: #0d192c;
+  padding: 70px 0;
+}
+
+.nft-card {
+  margin: auto;
+  width: 350px;
+  height: 596px;
+  background: #15263f;
+  box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
+  border-radius: 15px;
+}
+
+.nft-image {
+  margin: 24px;
+  border-radius: 8px;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+  color: #ffffff;
+  margin: 0px 24px;
+  width: 302px;
+  height: 28px;
+}
+
+.p1 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  color: #8bacd9;
+  margin: 16px 24px 24px 24px;
+  width: 302px;
+  height: 52px;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 24px 25px 25px 24px;
+}
+
+.etherium-container {
+  width: 93.48px;
+  height: 20px;
+}
+
+.eth-image {
+  width: 11px;
+  height: 18px;
+}
+
+.clock-image {
+  width: 13.33px;
+  height: 13.33px;
+}
+
+.time-container {
+  width: 97px;
+  height: 20px;
+}
+
+.etherium-p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #00fff8;
+  display: inline;
+  width: 75px;
+  height: 20px;
+}
+
+.duration-p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #8bacd9;
+  display: inline;
+}
+
+.hr {
+  width: 302px;
+  height: 1px;
+  background: #2e405a;
+}
+
+.footer {
+  margin: 16px 96px 32px 24px;
+  width: 230px;
+  height: 33px;
+  align-items: center;
+  display: flex;
+}
+
+.author-image {
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+}
+
+.p4 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #8bacd9;
+  display: inline;
+  margin-left: 16px;
+}
+
+.p5 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  display: inline;
+  margin-left: 5px;
+}
